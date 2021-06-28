@@ -19,6 +19,7 @@
     
     <!--Version du JDK-->
     <properties>
+        <start-class>fr.ldnr.groupe2.mavenprojectbiblio.BiblioMain</start-class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
